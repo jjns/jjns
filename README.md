@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![José Januário's github stats](https://github-readme-stats.vercel.app/api?username=jjns)](https://github.com/jjns/github-readme-stats)
+[![José Januário's github stats](https://github-readme-stats.vercel.app/api?username=jjns&show_icons=true&theme=radical)](https://github.com/jjns/github-readme-stats)
