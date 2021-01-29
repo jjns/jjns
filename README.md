@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I’m currently working on ...
-- 🔭 Atualmente estou estagiando como Instrutor Auxiliar na CPSoftware, em um projeto super legal de certificação em IA tendo a Huawei como parceira. Além de ser totalmente de graça, aqueles que obtém destaque durante o curso ainda conseguem um voucher para realizar a certificação HCIA-AI. Saiba mais em: https://cpsoftware.com.br/.
+## Meus trabalhos atuais:
+  Atualmente estou estagiando como Instrutor Auxiliar na CPSoftware, em um projeto super legal de certificação em IA tendo a Huawei como parceira. Além de ser totalmente de graça, aqueles que obtém destaque durante o curso ainda conseguem um voucher para realizar a certificação HCIA-AI. Saiba mais em: https://cpsoftware.com.br/.
+  
+  Também desenvolvo trabalho voluntário no Inteli, no qual sou PO e líder do squad tech de embaixadores composto por 10 membros. Atuo no desenvolvimento do site institucional e organizo atividades de engajamento com o time.
 
 [![José Januário's github stats](https://github-readme-stats.vercel.app/api?username=jjns&show_icons=true&theme=radical)](https://github.com/jjns/github-readme-stats)
