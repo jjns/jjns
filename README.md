@@ -30,13 +30,13 @@ Here are some ideas to get you started:
     
   ### Primeiros Projetos:
   #### Gobarber:
-  -> Backend https://github.com/jjns/gostack-backend-gobarber
+  - Backend https://github.com/jjns/gostack-backend-gobarber
     
   #### Desafios da plataforma Rocketseat:
-  -> https://github.com/jjns/gostack-backend-desafio1
-  -> https://github.com/jjns/gostack-frontend-desafio2
-  -> https://github.com/jjns/gostack-mobile-desafio3
-  -> https://github.com/jjns/gostack-backend-desafio4
+  - https://github.com/jjns/gostack-backend-desafio1
+  - https://github.com/jjns/gostack-frontend-desafio2
+  - https://github.com/jjns/gostack-mobile-desafio3
+  - https://github.com/jjns/gostack-backend-desafio4
     
 
 ## Status do meu Github
