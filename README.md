@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   
 ## Estou a procura de emprego!!
 
-### Estou buscando vaga Jr / estágio na área dev (Já que não atuo especificamente nela ainda). Estou em formação fullstack, mas tenho maior aptidão para o backend com Node.js.
+### Estou buscando vaga como dev. Tenho maior aptidão para o backend com Node.js. Inglês intermediário.
 
 ## 💬 Qualquer dúvida só entrar em contato!
   - Email: jjns.januario@gmail.com
