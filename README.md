@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ## Estou estudando...
   Estou em formação fullstack pela Rocketseat (https://rocketseat.com.br/), empresa referência no ensino com a stack Js. Lá tenho aprendido desenvolvimento web e mobile com: Node.js, Express, Typescript, React.js e React Native. A maioria dos repositórios do meu perfil, são projetos desenvolvidos através desse curso. 
   ### Conceitos:
-    -> Backend https://github.com/jjns/conceitos-backend 
-    -> Frontend https://github.com/jjns/conceitos-frontend
-    -> Mobile https://github.com/jjns/conceitos-mobile
-    -> Typescript https://github.com/jjns/conceitos-typescript
+    - Backend: https://github.com/jjns/conceitos-backend 
+    - Frontend: https://github.com/jjns/conceitos-frontend
+    - Mobile: https://github.com/jjns/conceitos-mobile
+    - Typescript: https://github.com/jjns/conceitos-typescript
     
   ### Primeiros Projetos:
   #### Gobarber:
