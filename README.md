@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi! Tudo bem? Meu nome é José Januário, mas pode me chamar de Neto! Sinta-se à vontade para navegar 😊
 
 <!--
 **jjns/jjns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Atualmente estou estagiando como Instrutor Auxiliar na CPSoftware, em um projeto super legal de certificação em IA tendo a Huawei como parceira. Além de ser totalmente de graça, aqueles que obtém destaque durante o curso ainda conseguem um voucher para realizar a certificação HCIA-AI. Saiba mais em: https://cpsoftware.com.br/.
 
 [![José Januário's github stats](https://github-readme-stats.vercel.app/api?username=jjns&show_icons=true&theme=radical)](https://github.com/jjns/github-readme-stats)
