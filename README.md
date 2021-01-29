@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   ##### Gobarber:
   - Backend https://github.com/jjns/gostack-backend-gobarber
     
-  ##### Desafios da plataforma Rocketseat:
+  #### Desafios da plataforma Rocketseat:
   - https://github.com/jjns/gostack-backend-desafio1
   - https://github.com/jjns/gostack-frontend-desafio2
   - https://github.com/jjns/gostack-mobile-desafio3
