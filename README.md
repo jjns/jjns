@@ -23,18 +23,22 @@ Here are some ideas to get you started:
   Também desenvolvo trabalho voluntário no Inteli, no qual sou PO e líder do squad tech de embaixadores composto por 10 membros. Atuo no desenvolvimento do site institucional e organizo atividades de engajamento com o time. Conheça mais sobre o Inteli em: http://inteli.edu.br/.
   
 ## 🌱 Estou estudando...
+  ### Engenharia de Computação (UFAL - Universidade Federal de Alagoas)
+  Estou cursando o 3º Período da graduação.
+  
+  ### Rocketseat
   Estou em formação fullstack pela Rocketseat (https://rocketseat.com.br/), empresa referência no ensino com a stack Js. Lá tenho aprendido desenvolvimento web e mobile com: Node.js, Express, Typescript, React.js e React Native. A maioria dos repositórios do meu perfil, são projetos desenvolvidos através desse curso. 
-  ### Conceitos:
+  #### Conceitos:
   - Backend: https://github.com/jjns/conceitos-backend 
   - Frontend: https://github.com/jjns/conceitos-frontend
   - Mobile: https://github.com/jjns/conceitos-mobile
   - Typescript: https://github.com/jjns/conceitos-typescript
     
-  ### Primeiros Projetos:
-  #### Gobarber:
+  #### Primeiros Projetos:
+  ##### Gobarber:
   - Backend https://github.com/jjns/gostack-backend-gobarber
     
-  #### Desafios da plataforma Rocketseat:
+  ##### Desafios da plataforma Rocketseat:
   - https://github.com/jjns/gostack-backend-desafio1
   - https://github.com/jjns/gostack-frontend-desafio2
   - https://github.com/jjns/gostack-mobile-desafio3
