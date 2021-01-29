@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 ## Estou estudando...
   Estou em formação fullstack pela Rocketseat (https://rocketseat.com.br/), empresa referência no ensino com a stack Js. Lá tenho aprendido desenvolvimento web e mobile com: Node.js, Express, Typescript, React.js e React Native. A maioria dos repositórios do meu perfil, são projetos desenvolvidos através desse curso. 
   ### Conceitos:
-    - -> Backend https://github.com/jjns/conceitos-backend 
-    - -> Frontend https://github.com/jjns/conceitos-frontend
-    - -> Mobile https://github.com/jjns/conceitos-mobile
-    - -> Typescript https://github.com/jjns/conceitos-typescript
+    -> Backend https://github.com/jjns/conceitos-backend 
+    -> Frontend https://github.com/jjns/conceitos-frontend
+    -> Mobile https://github.com/jjns/conceitos-mobile
+    -> Typescript https://github.com/jjns/conceitos-typescript
     
   ### Primeiros Projetos:
   #### Gobarber:
-    - -> Backend https://github.com/jjns/gostack-backend-gobarber
+    -> Backend https://github.com/jjns/gostack-backend-gobarber
     
   #### Desafios da plataforma Rocketseat:
-    - -> https://github.com/jjns/gostack-backend-desafio1
-    - -> https://github.com/jjns/gostack-frontend-desafio2
-    - -> https://github.com/jjns/gostack-mobile-desafio3
-    - -> https://github.com/jjns/gostack-backend-desafio4
+    -> https://github.com/jjns/gostack-backend-desafio1
+    -> https://github.com/jjns/gostack-frontend-desafio2
+    -> https://github.com/jjns/gostack-mobile-desafio3
+    -> https://github.com/jjns/gostack-backend-desafio4
     
 
-
+## Status do meu Github
 [![José Januário's github stats](https://github-readme-stats.vercel.app/api?username=jjns&show_icons=true&theme=radical)](https://github.com/jjns/github-readme-stats)
