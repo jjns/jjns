@@ -36,9 +36,6 @@ Here are some ideas to get you started:
   ### Sistema de monitoramento web para detecção de uso correto de máscara e aglomeração.
   Em agosto de 2020 fui selecionado junto com mais 27 alunos, dentre centenas inscritos, para realizar um bootcamp de desenvolvimento promovido pelo Inteli. Desenvolvemos uma plataforma Web para a Revista Exame, tal projeto está aguardando aval para publicação Open Source. Em equipe de 6 pessoas, desenvolvemos toda a aplicação utilizando Python (TensorFlow, Keras, PyMySQL, Tornado) no backend e serviço, Vue.js no frontend e MySQL como banco de dados tendo realizado todas as entregas e acompanhamento com base no Framework Scrum + Kanban de metodologia ágil. Além de toda a parte técnica, tivemos aulas de Mercado e Produto, nas quais formulamos toda a entrega do produto. Em adição aos aspectos citados, as competências comportamentais também foram abordadas, aspectos como comunicação acertiva, liderança e objetividade foram bem trabalhados e exercitados ao longo de todo o bootcamp.
   
-## Estou a procura de emprego!!
-
-### Estou buscando vaga como dev. Tenho maior aptidão para o backend com Node.js. Inglês intermediário.
 
 ## 💬 Qualquer dúvida só entrar em contato!
   - Email: jjns.januario@gmail.com
