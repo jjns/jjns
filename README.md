@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   ### Rocketseat
   Estou em formação fullstack pela Rocketseat com o bootcam IGNITE. (https://rocketseat.com.br/) Empresa referência no ensino com a stack Js. Lá tenho aprendido desenvolvimento web e mobile com: Node.js, Express, Typescript, React.js e React Native com tudo o que há de mais recente no mercado. A maioria dos repositórios do meu perfil, são projetos desenvolvidos através desse curso. 
   #### Trilha NodeJs:
-    Conceitos (https://github.com/jjns/ignite-conceitos-do-nodejs)
+  - Conceitos (https://github.com/jjns/ignite-conceitos-do-nodejs)
   
   
 
